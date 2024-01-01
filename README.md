@@ -34,3 +34,6 @@ Introduce tools and features aimed explicitly at increasing staff productivity. 
 3. Enhance customer experience
 The reservation system ensures that customers can effortlessly plan their visits, reducing wait times and enhancing overall satisfaction. Through these enhancements, we aim to create a memorable and enjoyable experience for every customer, fostering loyalty and positive word-of-mouth.
  </p>
+
+
+asdgjhsadgjas
